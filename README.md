@@ -1,4 +1,6 @@
 # Exoplanet
+#### 물이 있는 행성을 발견한 인간, 외계인에게 습격 당하다 
+##### scene 제작
 
 ## How to control
 “W”, “S”, “A”, “D”: forward, backward, left, right move.
